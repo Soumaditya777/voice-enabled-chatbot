@@ -1,11 +1,11 @@
 # 🎙️ Voice-Enabled Chatbot
 
-A simple voice-interactive chatbot built with Python and powered by Gemini Pro (Google's LLM). Speak to it, and it speaks back—just like magic!
+A simple voice-interactive chatbot built with Python and powered by Gemini Flash (Google's LLM). Speak to it, and it speaks back—just like magic!
 
 ## ⚙️ Features
 
 - 🎤 Voice input via microphone  
-- 🤖 AI responses using Gemini Pro  
+- 🤖 AI responses using Gemini Flash latest  
 - 🔊 Voice output via text-to-speech
 
 ## 🛠️ Tech Stack
